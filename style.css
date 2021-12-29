@@ -2,3 +2,13 @@ h1{
     color:cornflowerblue;
     text-align: center;
 }
+.table_center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
